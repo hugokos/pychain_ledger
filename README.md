@@ -7,7 +7,7 @@ Project uses:
 
 [Pandas](https://pandas.pydata.org/)
 
-[DataClasses]https://docs.python.org/3/library/dataclasses.html)
+[DataClasses](https://docs.python.org/3/library/dataclasses.html)
 
 [Typing](https://docs.python.org/3/library/typing.html)
 
@@ -31,7 +31,7 @@ Run this program in Jupyter notebook and have a Pandas, DataClasses, Typing, Str
 
 Utilize terminal to interact with the program. Test the program by storing records when you run the PyChain ledger and user interface by running the Streamlit application and storing some mined blocks in the PyChain ledger. Then test the blockchain validation process by using your PyChain ledger.
 
-!['Screen Shot of Streamlit'](https://github.com/hugokos/pychain_ledger/Streamlit_Screenshot.JPG)
+!['Screen Shot of Streamlit'](https://github.com/hugokos/pychain_ledger/blob/master/Streamlit_Screenshot.JPG)
 
 
 
